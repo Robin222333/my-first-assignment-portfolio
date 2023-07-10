@@ -1,3 +1,51 @@
 *{
-    
+    margin: 0px;
+    padding: 0px;
 }
+
+/* this is the place of header css.. */
+.container{
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+    justify-content: center;
+    /* text-align: center; */
+    align-items: center;
+}
+.description{
+    display: flex;
+    /* padding: 80px; */
+    width: 708px;
+    flex-direction: column;
+    /* text-align: center; */
+    margin-right: 100px;
+
+}
+.heading-1{
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+}
+.para-1{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;  
+}
+.btn{
+    background-color: #E55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    margin-right: 556px;
+    align-items: flex-start;
+    gap: 10px;
+    border: none;
+    border-radius: 8px;
+}
+.image{
+    padding-top: 40px;
+}
+
+
+/* this is the place of main section css... */
