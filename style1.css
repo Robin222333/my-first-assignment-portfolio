@@ -1,10 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family:  'Lato', sans-serif;;
 }
-
-/* this is the place of header css.. */
 .container-1{
     display: flex;
     justify-content: center;
@@ -28,7 +25,6 @@
     padding: 12px 30px;
     background-color: #E55473;
     border-radius: 8px;
-    border: none;
 }
 .image{
     padding-top: 50px;
@@ -36,9 +32,7 @@
     padding-left: 80px;
 }
 
-
-/* this is the place of main section css... */
-
+/* SECTION-2... */
 
 .container-2{
     margin: 150px 200px;
@@ -90,42 +84,5 @@
     list-style: none;
     justify-content: space-around;
     
-
-}
-/* this is the placemant-3 */
-
-.container-3{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color:rgba(229, 84, 115, 0.05);
-}
-
-
-/* this is the placement-4.. */
-.square{
-    display: flex;
-    justify-content: space-around;
-}
-
-/* this is the placement-5(background-image)... */
-
-.background-image{
-    /* width: ; */
-    height: 100vh;
-    /* background-color: aqua; */
-    background-image: url("../flower-shop-assignment-main/Flower Asset/Rectangle\ 9.png");
-    background-repeat: no-repeat;
-    text-align: center;
-}
-
-/* this is the place of footer.. */
-
-.container-6{
-    background-color: black;
-    color: beige;
-    text-align: center;
-    padding-top: 40px;
-    padding-bottom: 40px;
 
 }
