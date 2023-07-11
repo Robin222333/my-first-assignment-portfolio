@@ -103,3 +103,27 @@
 .image-3{
     
 }
+/* this is the section-4.. */
+.description-4{
+    text-align: center;
+}
+.square{
+    display: flex;
+    justify-content: space-around;
+}
+.square-1{
+    padding: 10px;
+    /* width: 100px; */
+}
+
+/* this is section-5.. */
+
+.background-image{
+    height: 100vh;
+    background-image: url("../flower-shop-assignment-main/Flower Asset/Rectangle\ 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

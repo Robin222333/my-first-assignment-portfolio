@@ -115,20 +115,28 @@
 
 
 /* this is the placement-4.. */
+.description-4{
+    text-align: center;
+}
 .square{
     display: flex;
     justify-content: space-around;
+}
+.square-1{
+    padding: 10px;
+    /* width: 100px; */
 }
 
 /* this is the placement-5(background-image)... */
 
 .background-image{
-    /* width: ; */
     height: 100vh;
-    /* background-color: aqua; */
     background-image: url("../flower-shop-assignment-main/Flower Asset/Rectangle\ 9.png");
+    background-position: center;
     background-repeat: no-repeat;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* this is the place of footer.. */
@@ -137,6 +145,7 @@
     background-color: black;
     color: beige;
     text-align: center;
+    margin: 0px;
     padding-top: 40px;
     padding-bottom: 40px;
 
