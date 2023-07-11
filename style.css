@@ -12,7 +12,8 @@
     background-color: rgba(229, 84, 115, 0.10);
 }
 .description{
-    width: 708px;
+    text-align: left;
+    padding-left: 200px;
 }
 .heading-1{
     font-size: 80px;
@@ -109,10 +110,10 @@
     font-size: 40px;
 
 }
-.image-3{
+/* .image-3{
     
 }
-
+ */
 
 /* this is the placement-4.. */
 .description-4{
