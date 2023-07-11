@@ -96,9 +96,21 @@
 
 .container-3{
     display: flex;
-    justify-content: center;
     align-items: center;
-    background-color:rgba(229, 84, 115, 0.05);
+    justify-content: center;
+    background-color: rgba(229, 84, 115, 0.05);
+}
+.description-3{
+    width: 550px;
+    text-align: center;
+   margin: 80px;
+}
+.heading-3{
+    font-size: 40px;
+
+}
+.image-3{
+    
 }
 
 
